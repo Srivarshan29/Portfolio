@@ -4,8 +4,8 @@ export const profileData = {
   name: "Sri Varshan M",
   tagline: "Engineering the Future of AI & Full-Stack Systems",
   email: "varshan029sri@gmail.com",
-  linkedin: "https://www.linkedin.com/in/sri-varshan-m",
-  github: "https://github.com/srivarshan",
+  linkedin: "https://www.linkedin.com/in/sri-varshan-m-674b90314?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BpLgMmaM2RLKRbns16ednBg%3D%3D",
+  github: "https://github.com/Srivarshan29",
   summary: "Aspiring Software Engineer specialized in AI, Machine Learning, and Full-Stack Development. Expert in building end-to-end intelligent systems—from training deep learning architectures to deploying scalable Flask and Next.js applications. Driven by creating high-impact, data-driven solutions."
 };
 
