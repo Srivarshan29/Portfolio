@@ -15,7 +15,7 @@ export const projects = [
     title: "LegalAI Assistant Pro",
     description: "A comprehensive LegalTech platform for case management and document automation. Built with Next.js 15, Flask, and SQLAlchemy.",
     tech: ["Next.js 15", "Flask", "SQLAlchemy", "AI/ML", "PostgreSQL"],
-    github: "https://github.com/srivarshan/legalai-assistant-pro",
+    github: "https://github.com/Srivarshan29/ai-lawyer-assistant-pro",
     highlights: [
       "Automated legal document processing",
       "Case management system",
@@ -27,7 +27,7 @@ export const projects = [
     title: "Serene AI",
     description: "A Dockerized mental health ecosystem using Google Gemini API, featuring mood tracking and neurofeedback.",
     tech: ["Docker", "Google Gemini API", "Python", "React", "Flask"],
-    github: "https://github.com/srivarshan/serene-ai",
+    github: "https://github.com/Srivarshan29/-Serene_AI",
     highlights: [
       "Real-time mood tracking",
       "AI-powered mental health insights",
